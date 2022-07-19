@@ -8,6 +8,7 @@ public class githubpractice1Test {
 	public void parctice1() {
 		
 		System.out.println("test1==> class1");
+		//hi buddy
 	
 	}
 	@Test
