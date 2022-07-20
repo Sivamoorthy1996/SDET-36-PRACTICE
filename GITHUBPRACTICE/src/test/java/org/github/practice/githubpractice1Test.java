@@ -17,7 +17,7 @@ public class githubpractice1Test {
 	public void parctice2() {
 		
 		System.out.println("Test1-->class1");
-		System.out.println("Good boy");
+		System.out.println("Good boy siva");
 	
 	}
 	@Test
